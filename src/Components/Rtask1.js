@@ -17,8 +17,9 @@ export class Rtask1 extends Component {
     }
     handleInput = (e) => {
         const inputText = e.target.value;
-        const words = inputText.split(/\s+/);
-        const Wordcount = words.length;
+        const words = inputText.trim().split(/\s+/);
+        const wordCount = inputText.trim() === "" ? 0 : words.length;
+        const Wordcount = wordCount;
 
         this.setState({
             InputText : inputText,

@@ -4,3 +4,16 @@ p {
 textarea:focus { 
     border-color: black;
 }
+textarea {
+    margin-left: 36%;
+    margin-top: 10px;
+    
+}
+h1 {
+    margin-left: 30%;
+    margin-top: 15%;
+
+}
+p {
+    margin-left: 36%;
+}
