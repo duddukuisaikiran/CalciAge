@@ -1,0 +1,76 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Hi am saikiran how are you all",
+      "author": "sai",
+      "id": 1
+    },
+    {
+      "title": "My second blog",
+      "body": "Hi Iam Duddukuri how are you all",
+      "author": "sai",
+      "id": 2
+    },
+    {
+      "title": "sai",
+      "body": "kiran",
+      "author": "sai",
+      "id": 3
+    },
+    {
+      "title": "sai",
+      "body": "kiran",
+      "author": "sai",
+      "id": 4
+    },
+    {
+      "title": "sai",
+      "body": "kiran",
+      "author": "sai",
+      "id": 5
+    },
+    {
+      "title": "sai",
+      "body": "ram",
+      "author": "sai",
+      "id": 6
+    },
+    {
+      "title": "ram",
+      "body": "sam",
+      "author": "kiran",
+      "id": 7
+    },
+    {
+      "title": "ram",
+      "body": "sam",
+      "author": "kiran",
+      "id": 8
+    },
+    {
+      "title": "web",
+      "body": "nice",
+      "author": "kiran",
+      "id": 9
+    },
+    {
+      "title": "asd",
+      "body": "qwer",
+      "author": "kiran",
+      "id": 10
+    },
+    {
+      "title": "web devolopment",
+      "body": "using react js",
+      "author": "sai",
+      "id": 11
+    },
+    {
+      "title": "NAMESTE",
+      "body": "Good Morning",
+      "author": "sai",
+      "id": 12
+    }
+  ]
+}

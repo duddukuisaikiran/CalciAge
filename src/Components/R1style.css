@@ -1,0 +1,6 @@
+p {
+    padding-top: 25px;
+}
+textarea:focus { 
+    border-color: black;
+}
