@@ -1,0 +1,30 @@
+.grid-container{
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: black;
+    color:white;
+    border-bottom:1px solid black;
+    border-radius:0px 0px 20px 20px;
+}
+.grid-item{
+    text-align:center;
+    display:inline;
+    padding-top:8px;
+    min-height:33px;
+    color : rgb(255, 255, 255);
+}
+#div1{
+    min-height:150px;
+    border-bottom:1px solid black;
+    border-top:1px solid blueviolet;
+    border-radius:20px 20px 0px 0px;
+    background-color:blueviolet;
+}
+#main{
+   width:20%;
+   margin:10% auto;
+}
+h2{
+    padding-right: 5px;
+    text-align: right;
+}
